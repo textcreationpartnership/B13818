@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vvhipper of the satyre his pennance in a white sheete: or, The beadles confutation</title>
+            <author>Guilpin, Edward.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13818</idno><idno type="EEBO-CITATION">99844752</idno>
+  <idno type="VID">177523</idno>
+  <idno type="EEBO-PROQUEST">2240864567</idno>
+  <idno type="STC">STC 12504.5</idno>
+  <idno type="STC">ESTC S109102</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99844752e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13818)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177523)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1016:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vvhipper of the satyre his pennance in a white sheete: or, The beadles confutation</title>
+                  <author>Guilpin, Edward.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by W. White] for Thomas Pauier,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1601.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Edward Guilpin.</note>
+                  <note>Misattributed to John Marston.</note>
+                  <note>A reply to: W.I.  The whipping of the satyre.</note>
+                  <note>In verse.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-B.</note>
+                  <note>Running title reads: The whippers pennance.</note>
+                  <note>The last three leaves are blank.</note>
+                  <note>Identified as STC 25351 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">W. I., fl. 1601. --  Whipping of the satyre --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177523:1"/>
+            <p>THE Whipper of the Satyre his pennance in a white Sheete: OR, The Beadles Confutation.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>AT LONDON Printed for Thomas Pauier. 1601.</p>
+         </div>
+         <div type="to_the_censors">
+            <pb facs="tcp:177523:2"/>
+            <pb facs="tcp:177523:2"/>
+            <head>TO ALL IVDICIALL CENSVRERS.</head>
+            <l>BRaue sp'rited Gentles, on whose comely from</l>
+            <l>The Rose of fauour sits Maiestica<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l,</l>
+            <l>I bend the stubborne Atlas of sterne wroth.</l>
+            <l>But for the fau'rus of a b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd quill,</l>
+            <l>The instrument of a poore Beadles rage:</l>
+            <l>I greete them with a careles mindes resolue,</l>
+            <l>Trueth feares no touch, ne dreades presumptions scourge;</l>
+            <l>Pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ud Tyrany by vsurpation</l>
+            <l>C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnot depose inuested Veritie:</l>
+            <l>Ʋaile Bonnet then insulting Tamberlayne;</l>
+            <l>At least a Monarch: if the <hi>Satyrs</hi> Whip</l>
+            <l>He must be carted t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en, for Pride must mount.</l>
+            <l>Marry an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shall; but weele no Bazons tang:</l>
+            <l>Yes yes at any hand; Ile tell y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u why,</l>
+            <l>If all be whist, we shall w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt company.</l>
+            <l>Then Pride will faint: Oh haue a care to that,</l>
+            <pb facs="tcp:177523:3"/>
+            <l>For if he ride not in his glorious pompe,</l>
+            <l>It is no gl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry: Therefore a Doung-cart Ho'e,</l>
+            <l>To glut the world vvith greater admiration,</l>
+            <l>For thinges of vvorth feed all mens expectation.</l>
+            <l>But vvorthy Readers of my vvorthles Writ,</l>
+            <l>As Writers onely ayme to please the Wise,</l>
+            <l>So my endeuour is to lodge content</l>
+            <l>Within the closet of iudiciall hartes.</l>
+            <l>Iudge then aright, and vvith supposes helpe</l>
+            <l>Strengthen my imperfection, vvhere Art vvantes</l>
+            <l>Reason shall leud supply: imagin then</l>
+            <l>You s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the <hi>Satyrs</hi> Whipper in his pride,</l>
+            <l>Drawne by an Infant of a <hi>Satyrist:</hi>
+            </l>
+            <l>Who though he hath receiued many a ierke,</l>
+            <l>Read with what patience he susteynes that yoke:</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut if y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u finde him out of order tripping,</l>
+            <l>Dispence with him that's subiect vnto whipping.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:177523:3"/>
+            <head>The Satyrs whipper his pennance in a white Sheete.</head>
+            <head type="sub">OR, The Beadles Confutation.</head>
+            <lg>
+               <l>NOw for a Scourge of Wire to tyranize</l>
+               <l>On the proud Carkase of poore penurie.</l>
+               <l>Whose daring <hi>Muse</hi> doth ouer dare peet eies</l>
+               <l>To gaze vpon her imbecillitie:</l>
+               <l>Too weake a foe to shun a destine dainger,</l>
+               <l>Vnder the habbit of a forraine stranger.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:4"/>
+               <l>Were I a <hi>Satyre,</hi> as no <hi>Satirist,</hi>
+               </l>
+               <l>A <hi>Poet,</hi> as I cannot poetize:</l>
+               <l>Or as thou tearm'<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t an <hi>Epigramatist:</hi>
+               </l>
+               <l>Were I <hi>Arts</hi> maister, or could morralize,</l>
+               <l>I would dare more to him, that dare so much,</l>
+               <l>Whose thoughts diuine he doth so sharply touch.</l>
+            </lg>
+            <lg>
+               <l>O'rwening Beadell, term'd the <hi>Satyr's</hi> Whip,</l>
+               <l>No maruell though the worldes Inhabitants</l>
+               <l>Sucke the'nfectious blood of sinnes sweete lip,</l>
+               <l>And in such antique shapes so proudly vauntes:</l>
+               <l>No maruell if it be at such a stay,</l>
+               <l>When impecuninus Asses beare such sway.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:4"/>
+               <l>I meane such Striplinges as perhaps he is,</l>
+               <l>Who ouertooke in vndertaking Arme<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Armes fram'd of wordes, who with a <hi>Iudas</hi> kisse</l>
+               <l>Doth hugg the world, and with sweet sowre alarm's</l>
+               <l>Doth animate it to persist in sinne,</l>
+               <l>And why? because he knowes it ioyes therein.</l>
+            </lg>
+            <lg>
+               <l>But thou (vaineglorious) who so e're thou art,</l>
+               <l>That would'st disgrace such as anotomize</l>
+               <l>The times abusers, and by Wit and Art</l>
+               <l>Prooue faslhood trueth: How can that sympathize?</l>
+               <l>Gainst thee I write, to thee my Writ commend,</l>
+               <l>Vnknowne thy foe, though knowen perhaps no frend.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:5"/>
+               <l>Nor subtill Wit, nor sweete tong'd Poetrie,</l>
+               <l>Nor Art, the glorie of vaineglorious men,</l>
+               <l>Shall ayde my feeble imbecilitie:</l>
+               <l>The question is, how to confute thee then?</l>
+               <l>
+                  <hi>Reason,</hi> that in the robes of Sence did sute mee,</l>
+               <l>sayes, mauger <hi>Art</hi> or <hi>Wit</hi> I shall confute thee.</l>
+            </lg>
+            <lg>
+               <l>And thus I argue, holding argument</l>
+               <l>Against the proud aspiring insolent</l>
+               <l>Apparreld in an imbry vestament,</l>
+               <l>As if within obliuious continent:</l>
+               <l>But such a hissing Serpent can not lie</l>
+               <l>Vnder the shadow of obscuritie.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:5"/>
+               <l>Thou that ly'st lurking in a Buzards shape,</l>
+               <l>(A Fowles shape, fitting such a busie foole)</l>
+               <l>Thou which dost after some promotion gape,</l>
+               <l>Clawing the world; come take an humble stoole:</l>
+               <l>Seate thee by mee, do but as I will do,</l>
+               <l>And thou shalt haue a friend; yea, perhaps two.</l>
+            </lg>
+            <lg>
+               <l>I hate the world, and yet hate not to bee,</l>
+               <l>Because I am perforce, euen what I am:</l>
+               <l>I scorne the world, and therefore I scorne thee,</l>
+               <l>That dallies with it as a Curtizan:</l>
+               <l>But had I fast lost oportunitie,</l>
+               <l>You should be whipt, and nor a Whipper be.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:6"/>
+               <l>Reuil'st thou him that telleth man of sinne,</l>
+               <l>Seeming to foster such as sinfull be:</l>
+               <l>Better it we<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thy Pen at rest had bin,</l>
+               <l>Then to vphold such publique villanie:</l>
+               <l>Should not the worlde be told of sinne; and why?</l>
+               <l>Yes maugre <hi>Art</hi> or <hi>Wit:</hi> I say you lye.</l>
+            </lg>
+            <lg>
+               <l>Doth one amisse, or doth the Child offend?</l>
+               <l>Shall not the Fathers care correct that Child,</l>
+               <l>First by perswasions kindly to amende,</l>
+               <l>And gentle speeches, wordes with fauour milde?</l>
+               <l>Will not this do, and shall he spare the body</l>
+               <l>Of that faire Stripling? Go to, you are a noddy.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:6"/>
+               <l>Had I a Child (though bearing name of <hi>Will</hi>)</l>
+               <l>He should not tie that VVill vnto himselfe:</l>
+               <l>Selfe-will is nought, tis bad, tis passing ill,</l>
+               <l>Should <hi>Will</hi> in that will ioy, I'de ierke the elfe:</l>
+               <l>And so should'st thy wayward Child, or rather</l>
+               <l>I wish thee liue a foole, then proue a father.</l>
+            </lg>
+            <lg>
+               <l>VVhether i'st <hi>Art</hi> or <hi>Poetrie</hi> or <hi>Wit,</hi>
+               </l>
+               <l>Or all, or none; or but thine owne conceit,</l>
+               <l>That bid<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mee seeing sinne, not chide with it,</l>
+               <l>The last I hold it rather, sound retreit:</l>
+               <l>Be still, be still, twere good you call them in,</l>
+               <l>Your scoutes <hi>I</hi> meane, that so incourrage sinne.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:7"/>
+               <l>Not tell the world of sinne? yes that I will,</l>
+               <l>Though thou with treble prohibition frowne:</l>
+               <l>I say tis naught, tis wild, tis worse then ill,</l>
+               <l>And some will turne it topsie turuie downe,</l>
+               <l>And thou thy selfe a Worme, as others bee,</l>
+               <l>Thou flatter'st with the world: shall I with thee?</l>
+            </lg>
+            <lg>
+               <l>No no, thou art vnwise for all thy wit,</l>
+               <l>For <hi>Reason</hi> and true-Iudgment tels me so.</l>
+               <l>Do I amisse? how should I know of it,</l>
+               <l>By hums, or hems, or signes? Good Wizard no.</l>
+               <l>If I haue sinne, and know not what it is,</l>
+               <l>I may be dam'd, not knowing my amisse.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:7"/>
+               <l>But tis reply'd, if we would learne aright</l>
+               <l>We must giue eare vnto the heauenly voyce</l>
+               <l>Of sacred Teachers, comforting the spright,</l>
+               <l>Where holy people sing with dulcet noize:</l>
+               <l>All this I graunt, and there man may heare much,</l>
+               <l>But yet his eare of sinne can brooke no tuch.</l>
+            </lg>
+            <lg>
+               <l>If one amongst a multitude, tis well:</l>
+               <l>But preethee, canst thou tell mee which is hee?</l>
+               <l>The diuine Preacher tells men there is Hell,</l>
+               <l>And Heauen likewise; ther's blisse, and miserie:</l>
+               <l>Who seekes the one? or who doth shun the other?</l>
+               <l>So much is man to shune a sinfull brother.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:8"/>
+               <l>Those sacred Pastors take exceeding paine,</l>
+               <l>To winne the wicked to a blessed life,</l>
+               <l>Commanding man from wickednesse refraine,</l>
+               <l>But still dissention sets vs all at strife:</l>
+               <l>They may command as God commandeth them</l>
+               <l>But we will do our willes: Why? we are men.</l>
+            </lg>
+            <lg>
+               <l>But let the Heauens frowne, the Welkin thunder,</l>
+               <l>Perhaps weele feare a little, and minde our God:</l>
+               <l>Threats may preuaile, &amp; signes may mak vs wonder</l>
+               <l>Yet feare we not, vntill we feele the rod.</l>
+               <l>Is this our life? then whip each other well,</l>
+               <l>Better be whipt on Earth, then scourg'd in Hell.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:8"/>
+               <l>I meete a follow as the str<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etes I pace,</l>
+               <l>That holde<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the word of God vnder his arme:</l>
+               <l>I aske from whence he comes? with humble grace</l>
+               <l>And saluations that pretend no harme</l>
+               <l>He answeres me; From <hi>Paules:</hi> Who reeds to day?</l>
+               <l>A toward Scholler, but I could not stay.</l>
+            </lg>
+            <lg>
+               <l>And why (quoth I?) Faith thers no roome, sayes he.</l>
+               <l>Your reason sir? Are all the places taken?</l>
+               <l>No, tis his doctrine which disliketh me.</l>
+               <l>As how? Eeuen thus: Hee sayes I am forsaken.</l>
+               <l>How, of the Diuell? a happie man are you.</l>
+               <l>No, but of God: yea, and he sayes tis true.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:9"/>
+               <l>Within this Eearth (and then he strikes his brest)</l>
+               <l>I know but onely one poore imperfection:</l>
+               <l>Which if but nam'd, the namer I detest,</l>
+               <l>The thought whereof, breedes such reiection:</l>
+               <l>For since the <hi>Satyrist</hi> so playd on mee,</l>
+               <l>I can not brooke to heare of letcherie. &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Now sir, to you sir, that can cast so well,</l>
+               <l>And haue a tricke in wrastling for a foyle;</l>
+               <l>
+                  <hi>Ʋerbosious</hi> sir, you that with words will quell</l>
+               <l>Vndaunted spirites, you that keepe such coyle,</l>
+               <l>By turning heeles vp: were you not I pray</l>
+               <l>At my Lord Maiors wrastling tother day?</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:9"/>
+               <l>VVas it not you that fell the lubber downe,</l>
+               <l>And gaue the Miller such a clenly fall?</l>
+               <l>Or was it you lay flatly on the ground,</l>
+               <l>When cappes flew vp, and men cride, God saue all?</l>
+               <l>Or were you then at <hi>Cambridge</hi> whē you thought</l>
+               <l>You could do this and that, and all was nought?</l>
+            </lg>
+            <lg>
+               <l>But what, where, when, or who, I care not;</l>
+               <l>Haue at you sir, and that I tro's faire play:</l>
+               <l>I giue you warning, and in fayth sir spare not,</l>
+               <l>To shield your selfe against this first assay.</l>
+               <l>You stroue gainst many, I onely striue with one,</l>
+               <l>One single fall (kind sir) and I haue done.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:10"/>
+               <l>I lay my life I throw you: brauely sayd:</l>
+               <l>Nay I will do it, if not done before.</l>
+               <l>What dares your Worship my resolue vpbraid?</l>
+               <l>I stand on firme ground, and haue helpes good store</l>
+               <l>Part fire and tow, all mercie els is fled,</l>
+               <l>Stand vp for shame, the coller slips your head.</l>
+            </lg>
+            <lg>
+               <l>A Gentleman that had a wayward Foole,</l>
+               <l>To passe the time, would needes at pusti-pin play:</l>
+               <l>And playing false, doth stirre the wau'ring stoole,</l>
+               <l>The Innocent had <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pi'd him, and cri'd stay,</l>
+               <l>Play that againe s<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yd he, you did not win,</l>
+               <l>And then the foole began to cry for's pin.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:10"/>
+               <l>Thou absurd Asse (his Maister then replyes)</l>
+               <l>Must you needes whine, &amp; strooke him on the eare:</l>
+               <l>With that the foole was whist, and dry'd his eyes,</l>
+               <l>And afterwards he durst not cry for feare:</l>
+               <l>When he perceiu'd the blowes he got thereby,</l>
+               <l>The Foole grew wise, and did forbeare to cry.</l>
+            </lg>
+            <lg>
+               <l>Now censure (gentle spirits) i'st not faire?</l>
+               <l>Haue I not cast him cle<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Iudgement ho<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</l>
+               <l>Now by my <hi>Muse,</hi> and shees scarce worth a haire,</l>
+               <l>Was neuer Wiseman had so kind<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>And by the foole in that lift ouerthrowne,</l>
+               <l>A foole or no foole, is the Whipper one?</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:11"/>
+               <l>One sayes an <hi>Eccho,</hi> from a hollow Caue</l>
+               <l>Sounded by thousandes which concord as one,</l>
+               <l>VVho cal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es a seeming honest man a knaue,</l>
+               <l>VVithout he prooue his imperfection:</l>
+               <l>And when by proofe that sinfull fault he know,</l>
+               <l>VVill he not call him friend that told him so.</l>
+            </lg>
+            <lg>
+               <l>Then friendly <hi>Satyrist,</hi> to thy Pen againe,</l>
+               <l>Let not one priuat Nouice terrifie</l>
+               <l>VVith halting lynes, thy Yron lasting braine,</l>
+               <l>VVhom sacred <hi>Trueth</hi> doth dayly nutrifie:</l>
+               <l>But with a brow according to thy hart,</l>
+               <l>I towne on the world, and giue it his desart.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:11"/>
+               <l>How many soules within this little rownd,</l>
+               <l>Blest with the knowledge of Diuinitie,</l>
+               <l>And for their zeale vnto the high'st renownd</l>
+               <l>Vnder the scepter of Virginitie,</l>
+               <l>VVho haue a thousand thousand sundry times</l>
+               <l>Grafted sweete Grapes vpon vnpleasant Vines.</l>
+            </lg>
+            <lg>
+               <l>And where is one that takes? where may we finde</l>
+               <l>A hart conuerted from impietie?</l>
+               <l>Do we not swimme in sinne? Are we not blind,</l>
+               <l>And howerly bath vs in iniquitie?</l>
+               <l>And yet for all these imperfections,</l>
+               <l>VVe should be free from all corrections?</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:12"/>
+               <l>No no, since kinde perswasions will not do,</l>
+               <l>Sung from the tongue of dulcet pietie,</l>
+               <l>Let irefull <hi>Fury</hi> whip and scourge them to,</l>
+               <l>Sounding their soules perpetuall miserie:</l>
+               <l>Hell ganes for such, and such as sinfull bee</l>
+               <l>Must taste the horror of obscuritie,</l>
+            </lg>
+            <lg>
+               <l>Insatiate <hi>Pride,</hi> whose siluer spaugled tyre,</l>
+               <l>Makes her admired in a vulgar eye,</l>
+               <l>Her dangling Aglers which so high aspire,</l>
+               <l>As if she were not base mortallitie:</l>
+               <l>Ringes euery houre her soules killing knell,</l>
+               <l>And summons her vnto the court of Hell.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:12"/>
+               <l>But when a sinne is spoken generall,</l>
+               <l>Who will assume it, and say I am shee:</l>
+               <l>Yet if a man meete <hi>Pride</hi> maiesticall,</l>
+               <l>And to her face say, Poore proude miserie,</l>
+               <l>Vaile Bonnet huswife, what? I know your name,</l>
+               <l>Shee'le blush &amp; hide her wanton face for shame.</l>
+            </lg>
+            <lg>
+               <l>If this will then force reformation,</l>
+               <l>Why shall I feare to say a knaue', a knaue?</l>
+               <l>What shall I stand in dread of coniuration,</l>
+               <l>Because <hi>Ʋntrusse</hi> hath from his duskie Caue</l>
+               <l>Sent a leane writhen Beadle all in haste,</l>
+               <l>To lay the mantion of the <hi>Satyres</hi> waste.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:13"/>
+               <l>No no, auaunt bace Feare, it cannot bee,</l>
+               <l>Tell him, the <hi>Satyre</hi> may not be deposd,</l>
+               <l>So long as <hi>Trueth</hi> sings his Apologie:</l>
+               <l>Nor is he of so bace a mould composd,</l>
+               <l>As to be subiect to a slight impression,</l>
+               <l>For a true <hi>Satyre's</hi> guyltles of transgression.</l>
+            </lg>
+            <lg>
+               <l>If I should say, thou wert a busie Sir,</l>
+               <l>With a good conscience canst thou say I lie?</l>
+               <l>Was neuer Whipper kept so great a stir,</l>
+               <l>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uing such careles soules for <hi>Tyrranie?</hi>
+               </l>
+               <l>For were it not a Gentleman's disgrace,</l>
+               <l>I'de tearme the Whipper foole vnto his face.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:13"/>
+               <l>Perhaps your wisedome will a lash impose</l>
+               <l>Of fell correction, on my tender backe:</l>
+               <l>Well if you do, you shall no labour lose,</l>
+               <l>Ile take it well in woorth: but if you lacke,</l>
+               <l>What so you chaunce to lend without request,</l>
+               <l>I will repay't with double interest.</l>
+            </lg>
+            <lg>
+               <l>Meane time, good <hi>Satyre</hi> to thy wonted traine,</l>
+               <l>As yet there are no lettes to hinder thee▪</l>
+               <l>Thy touching quill with a sweete moouing straine,</l>
+               <l>Sings to the soule a blessed lullabie:</l>
+               <l>Thy lines beget a tymerous feare in all,</l>
+               <l>And that same feare deepe thoughts angellicall.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177523:14"/>
+               <l>So that the whylome le<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wd lasciuious man,</l>
+               <l>Is now remote from his abhorred life,</l>
+               <l>And cloathes the dalliance of a Curtezan,</l>
+               <l>And euery breathing wicked soule at strife:</l>
+               <l>Co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tending which shall first begin to mend,</l>
+               <l>That they may glory in a blessed end.</l>
+            </lg>
+            <lg>
+               <l>Droupe then (wise Foole) and with a blush of shame</l>
+               <l>Of firie coullor shadow thy pale face:</l>
+               <l>I know thy thoughts <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow'<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> high as golden fame:</l>
+               <l>But <hi>Pride</hi> aspiring take<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with foule disgrace,</l>
+               <l>Y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then confuted, and with patience beare</l>
+               <l>This gentle pennance, as a single sh<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
